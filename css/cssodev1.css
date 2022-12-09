@@ -1,0 +1,40 @@
+/******** Layout ********/
+
+/* class -> .text-red {} */
+/* id ->  #id-bilgisi {} */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family:"Poppins", sans-serif;
+    background-color: #e4d9d4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #996f6f;
+}
+
+span{
+    color: #996f6f;
+}
+
+div, footer {
+    text-align: center;
+    color: #55463f;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: #55463f;
+}
+
+ol {
+    list-style-position: inside;
+}
+
